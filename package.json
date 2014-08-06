@@ -1,0 +1,14 @@
+{
+  "name": "snarl.js",
+  "version": "0.1.0",
+  "description": "node.js snarl client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-bertrpc": "~1.0.0"
+  },
+  "author": "Heinz N. Gies",
+  "license": "CDDL"
+}
